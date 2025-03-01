@@ -8,6 +8,7 @@ const students = [
     {name: 'Simone', testGrade: 7},
     {name: 'Isabel', testGrade: 6},
     {name: 'Pedro', testGrade: 4.9},
+    {name: 'Helena', testGrade: 8.5}
 ]
 
 const newStudents = students.map(student => {
